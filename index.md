@@ -29,5 +29,5 @@
 <p align="center"><h1>Фотогалерея</h1></p>
 
 
-<p align="center"><h3>Контакты</h3></p>
+<p align="center"><h1>Контакты</h1></p>
 [link to Google!](http://google.com)
