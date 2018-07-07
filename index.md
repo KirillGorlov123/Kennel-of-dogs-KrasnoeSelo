@@ -20,4 +20,4 @@
 
 
 <h1>Наши собаки</h1>
-![dogs](https://vk.com/photo-145372083_456239393)
+![dogs](https://pp.userapi.com/c831209/v831209423/a1b02/FaOL61X01Yc.jpg)
