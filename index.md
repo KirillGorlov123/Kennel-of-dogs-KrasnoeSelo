@@ -1,4 +1,4 @@
-<p align="center"><h1><font color="yellow">Главная</font></h1></p>
+<p align="center"><h1><font color="#ffcc00">Главная</font></h1></p>
 
 
 <h3>Содружество питомников собак Невская Лига и Грейт Гардарика.
