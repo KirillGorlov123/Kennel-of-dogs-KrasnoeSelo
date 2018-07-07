@@ -22,3 +22,11 @@
 <h1>Наши собаки</h1>
 ![dogs](https://pp.userapi.com/c831209/v831209423/a1b02/FaOL61X01Yc.jpg)
 
+
+<p align="center"><h1>Щенки на продажу</h1></p>
+
+
+<p align="center"><h1>Фотогалерея</h1></p>
+<p>-</p>
+<p>-</p>
+<p align="center"><h3></h3></p>
