@@ -2,6 +2,6 @@
 
 [link to Google!](http://google.com)
 
-<!-- p>
+<p>
   <a href="http://google.com">link to Google!</a>
-</p -->
+</p>
