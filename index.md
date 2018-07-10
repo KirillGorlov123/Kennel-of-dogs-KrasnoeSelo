@@ -1,4 +1,12 @@
-
+ <style>
+   p.dline {
+    line-height: 2;
+   }
+   P {
+    line-height: 0.9em;
+   }
+  </style>
+  
  <h3 align="left"> <a href="https://kirillgorlov123.github.io/Kennel-of-dogs-KrasnoeSelo/glavnaya">Главная</a></h3>
  <h3 align="left"> <a href="https://kirillgorlov123.github.io/Kennel-of-dogs-KrasnoeSelo/news">Новости</a></h3>
  <h3 align="left"> <a href="https://kirillgorlov123.github.io/Kennel-of-dogs-KrasnoeSelo/Our-dogs">Наши собаки</a></h3>
