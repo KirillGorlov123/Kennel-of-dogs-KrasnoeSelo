@@ -1,3 +1,3 @@
 <h1 align="center">Новости</h1>
 
- <h3 align="left"> <a href="http://google.com">link to Google!</a></h3>
+ <h5 align="left"> <a href="https://kirillgorlov123.github.io/Kennel-of-dogs-KrasnoeSelo">Главная</a></h5>
