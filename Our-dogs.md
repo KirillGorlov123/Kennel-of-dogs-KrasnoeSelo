@@ -1,4 +1,6 @@
-<h1 align="center"><font color="#ffcc00">Наши собаки</front></h1>
+<h1 align="center"><font color="#ffcc00">Наши собаки</font></h1>
+
+
  <h5 align="left"> <a href="https://kirillgorlov123.github.io/Kennel-of-dogs-KrasnoeSelo">Главная</a></h5>
  <h5 align="left"> <a href="https://kirillgorlov123.github.io/Kennel-of-dogs-KrasnoeSelo/news">Новости</a></h5>
  <h5 align="left"> <a href="https://kirillgorlov123.github.io/Kennel-of-dogs-KrasnoeSelo/Our-dogs">Наши собаки</a></h5>
