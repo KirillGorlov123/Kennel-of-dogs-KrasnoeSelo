@@ -3,5 +3,5 @@
 [link to Google!](http://google.com)
 
 <p>
-  <h2 align="right"> <a href="http://google.com">link to Google!</a> </h2>
+  <h3 align="left"> <a href="http://google.com">link to Google!</a> </h2>
 </p>
