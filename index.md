@@ -1,5 +1,3 @@
-<h1 align="center"><font color="#ffcc00">Меню</font></h1>
-
 
  <h3 align="left"> <a href="https://kirillgorlov123.github.io/Kennel-of-dogs-KrasnoeSelo/glavnaya">Главная</a></h3>
  <h3 align="left"> <a href="https://kirillgorlov123.github.io/Kennel-of-dogs-KrasnoeSelo/news">Новости</a></h3>
