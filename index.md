@@ -5,4 +5,4 @@
  <h2 align="left"> <a href="https://kirillgorlov123.github.io/Kennel-of-dogs-KrasnoeSelo/Puppies for sale">Щенки на продажу</a></h2> 
  <h2 align="left"> <a href="https://kirillgorlov123.github.io/Kennel-of-dogs-KrasnoeSelo/Photo Gallery">Фотогалерея</a></h2>
  <h2 align="left"> <a href="https://kirillgorlov123.github.io/Kennel-of-dogs-KrasnoeSelo/Контакты">Контакты</a></h2>
-![Photo](https://mail.google.com/mail/u/0/#inbox/FMfcgxvwzvSSmfxQPPSPXJZsvJssvxfl?projector=1&messagePartId=0.7)
+ ![Photo](https://mail.google.com/mail/u/0/#inbox/FMfcgxvwzvSSmfxQPPSPXJZsvJssvxfl?projector=1&messagePartId=0.7)
