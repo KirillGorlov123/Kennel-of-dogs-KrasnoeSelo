@@ -20,6 +20,24 @@
 
   </head>
   <body>
+     <div class="wrapper">
+       <div class="left-panel" style="
+    width: 250px;
+    position: fixed;
+    top: 150px;
+">
+        <div class="menu">
+          <ul>
+            <li> <a href="glavnaya">Главная</a></li>
+            <li> <a href="news">Новости</a></li>
+            <li> <a href="Our-dogs">Наши собаки</a></li>
+            <li> <a href="Puppies for sale">Щенки на продажу</a></li>
+            <li> <a href="Photo Gallery">Фотогалерея</a></li>
+            <li> <a href="Контакты">Контакты</a></li>
+          </ul>
+        </div>
+          
+      </div>
       <div id="header">
         <nav>
           <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
@@ -42,23 +60,14 @@
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
         </div>
         
-        <div class="menu">
-          <ul>
-            <li> <a href="glavnaya">Главная</a></li>
-            <li> <a href="news">Новости</a></li>
-            <li> <a href="Our-dogs">Наши собаки</a></li>
-            <li> <a href="Puppies for sale">Щенки на продажу</a></li>
-            <li> <a href="Photo Gallery">Фотогалерея</a></li>
-            <li> <a href="Контакты">Контакты</a></li>
-          </ul>
-        </div>
-
         <div class="content">
         {{ content }}
         </div>
 
       </section>
 
+    </div>
+       </div>
     </div>
 
     {% if site.google_analytics %}
@@ -71,15 +80,6 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
-    <div id="header">
-        <nav>
-          <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
-          {% if site.show_downloads %}
-            <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
-            <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
-            <li class="title">DOWNLOADS</li>
-          {% endif %}
-        </nav>
-      </div><!-- end header -->
+
   </body>
 </html>
