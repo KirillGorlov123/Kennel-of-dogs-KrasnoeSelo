@@ -3,10 +3,24 @@
 
 @import "{{ site.theme }}";
 
- /* Kirill styles */
-.wrapper {
-      max-width: none;
+.head-table td {
+    vertical-align: top;
 }
 
+.flash {
+    margin-top: -35px;
+    margin-bottom: 55px;
 
 
+    padding-left: 10px;
+    text-align: center;
+    font-size: 1.1em;
+}
+
+.pitomnik-title {
+    line-height: 37px;
+}
+
+.pre-pitomnik-title {
+    margin-bottom: 6px;
+}
