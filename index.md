@@ -1,7 +1,7 @@
 
 
 <div class="flash">
-    Сейчас в продаже щенок Ерошка <a href="/2018/10/23/first.html">русской цветной болонки</a>!
+    Сейчас в продаже щенок Ерошка <a href="2018/10/23/first.html">русской цветной болонки</a>!
 </div>
 
 
@@ -32,7 +32,7 @@
             </p>
         </td>
         <td>
-            <img src="/assets/photos/victoriya-mariya-title-300.jpg" alt="Руководители питомников">
+            <img src="assets/photos/victoriya-mariya-title-300.jpg" alt="Руководители питомников">
         </td>
     </tr>
 </table>
@@ -63,7 +63,7 @@ _Невская Лига_ и _Грейт Гардарика_ сотруднич�
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> <small>{{post.date | date: '%d.%m.%Y' }}</small>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> <small>{{post.date | date: '%d.%m.%Y' }}</small>
     </li>
   {% endfor %}
 </ul>
