@@ -79,3 +79,27 @@ _Невская Лига_ и _Грейт Гардарика_ сотруднич�
 </div>
 
 Питомник находится в городе Санкт-Петербург, Красное Село.
+
+
+## Достижения
+
+<div>
+    <div class="sert-img">
+        <img src="assets/photos/s1.jpg" alt=""> 
+    </div>
+    <div class="sert-img">
+        <img src="assets/photos/s2.jpg" alt=""> 
+    </div>
+    <div class="sert-img">
+        <img src="assets/photos/s3.jpg" alt=""> 
+    </div>
+    <div class="sert-img">
+        <img src="assets/photos/s4.jpg" alt="">
+    </div>
+    <div class="sert-img">
+        <img src="assets/photos/s5.jpg" alt=""> 
+    </div>
+    <div class="sert-img">
+        <img src="assets/photos/s6.jpg" alt=""> 
+    </div>
+</div>
