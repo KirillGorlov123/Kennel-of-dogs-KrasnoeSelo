@@ -85,21 +85,24 @@ _Невская Лига_ и _Грейт Гардарика_ сотруднич�
 
 <div>
     <div class="sert-img">
-        <img src="assets/photos/s1.jpg" alt=""> 
+        <img src="assets/photos/s1.jpg" alt="Юный чемпион - Фруттис с Волчьей Земли">
     </div>
     <div class="sert-img">
-        <img src="assets/photos/s2.jpg" alt=""> 
+        <img src="assets/photos/s2.jpg" alt="Чемпион России - Фруттис с Волчьей Земли">
     </div>
     <div class="sert-img">
-        <img src="assets/photos/s3.jpg" alt=""> 
+        <img src="assets/photos/s3.jpg" alt="Юный чемпион - Грейт Гардарика Бонни Фру">
     </div>
     <div class="sert-img">
-        <img src="assets/photos/s4.jpg" alt="">
+        <img src="assets/photos/s4.jpg" alt="Чемпион РКФ - Фруттис с Волчьей Земли">
     </div>
     <div class="sert-img">
-        <img src="assets/photos/s5.jpg" alt=""> 
+        <img src="assets/photos/s5.jpg" alt="Тест психики - Фруттис с Волчьей Земли"> 
     </div>
     <div class="sert-img">
-        <img src="assets/photos/s6.jpg" alt=""> 
+        <img src="assets/photos/s6.jpg" alt="Тест на пателлу - Фруттис с Волчьей Земли">
+    </div>
+    <div class="sert-img">
+        <img src="assets/photos/s7.jpg" alt="Тест на пателлу - Гайя"> 
     </div>
 </div>
