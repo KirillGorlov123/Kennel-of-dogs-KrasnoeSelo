@@ -1,7 +1,7 @@
 
 
-<div class="flash">
-    <a href="2018/11/25/pomet-gaya-fruttis.html">Щенки Русской Цветной Болонки</a> 20.11.2018
+<div class="flash">    
+   <a href="2019/04/19/prodaetsa.html">Продаётся сука русской цветной болонки, рожденная</a> 19.04.2019
 </div>
 
 
