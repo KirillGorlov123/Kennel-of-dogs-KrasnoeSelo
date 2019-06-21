@@ -7,7 +7,11 @@ title: 19.04.19 Продаётся сука русской цветной бол
 Крошка-болошка Невская Лига Жульяра или просто Жуля, 1,5 месяца.
 
 Тел. 8 921 633 22 21 Виктория
+<table>
+  <tr>
+    <td>![Щенок русской цветной болонки](/assets/photos/GQwGUhBAEhI.jpg)</td>
+    <td>![Щенок русской цветной болонки](/assets/photos/q17GvXUOlG4.jpg)</td>
+    <td>![Щенок русской цветной болонки](/assets/photos/wO0lJnEUN4o.jpg)</td>
+  </tr>
+</table>
 
-![Щенок русской цветной болонки](/assets/photos/GQwGUhBAEhI.jpg)
-![Щенок русской цветной болонки](/assets/photos/q17GvXUOlG4.jpg)
-![Щенок русской цветной болонки](/assets/photos/wO0lJnEUN4o.jpg)
