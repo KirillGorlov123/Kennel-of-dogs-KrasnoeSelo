@@ -9,7 +9,7 @@ title: 19.04.19 Продаётся сука русской цветной бол
 Тел. 8 921 633 22 21 Виктория
 <table>
   <tr>
-    <td><img src="/assets/photos/GQwGUhBAEhI.jpg" alt="Щенок русской цветной болонки"></td>
+    <td width="300" height="300"><img src="/assets/photos/GQwGUhBAEhI.jpg" alt="Щенок русской цветной болонки"></td>
     <td><img src="/assets/photos/q17GvXUOlG4.jpg" alt="Щенок русской цветной болонки">
       <img src="/assets/photos/wO0lJnEUN4o.jpg" alt="Щенок русской цветной болонки"></td>
   </tr>
