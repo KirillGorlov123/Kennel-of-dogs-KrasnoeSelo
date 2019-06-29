@@ -10,7 +10,7 @@ title: 19.04.19 Продаётся сука русской цветной бол
 <table>
   <tr>
     <td width="300" height="300"><img src="/assets/photos/GQwGUhBAEhI.jpg" alt="Щенок русской цветной болонки"></td>
-    <td width="250" height="100"><img src="/assets/photos/q17GvXUOlG4.jpg" alt="Щенок русской цветной болонки">
+    <td width="230" height="100"><img src="/assets/photos/q17GvXUOlG4.jpg" alt="Щенок русской цветной болонки">
       <img src="/assets/photos/wO0lJnEUN4o.jpg" alt="Щенок русской цветной болонки"></td>
   </tr>
 </table>
