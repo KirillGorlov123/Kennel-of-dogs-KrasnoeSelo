@@ -29,7 +29,7 @@
             
 
             <p>VK: 
-                <a href="vk.com/pitomniksobak" target="_blank">https://vk.com/pitomniksobak</a>
+                <a href="https://vk.com/pitomniksobak" target="_blank">https://vk.com/pitomniksobak</a>
             </p>
 
                 Facebook: 
