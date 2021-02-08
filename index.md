@@ -16,17 +16,42 @@
 
 Продаются, **звоните**: ``+7 921 633 22 21`` Виктория
 
-![ВЕО щенки Исидора и Измира](https://user-images.githubusercontent.com/2485728/106354205-05e5de80-6301-11eb-902b-4a1975f7c522.png)
+<div style="display:flex; flex-direction: row; align-items: flex-start; flex-wrap: wrap;">
+   <div>
+         <img alt="щенок ВЕО СПб купить" src="https://user-images.githubusercontent.com/2485728/107271554-76a59d00-6a5d-11eb-8c9c-b913323b2fe5.png" />
+   </div>
+   <div>
+         <img alt="щенок ВЕО СПб купить" src="https://user-images.githubusercontent.com/2485728/107271752-b53b5780-6a5d-11eb-9a84-48ff8a066b13.png" style="max-width: 80%;"/>
+   </div>
+</div>
 
 ### Родители чемпионы
 ![ВЕО Акира](https://user-images.githubusercontent.com/2485728/106354236-45142f80-6301-11eb-9eed-154d0d100e06.png)
 
+
+### Продаются щенки Австралийской Пастушьей Собаки
+
+Родились 02.02.2021
+
+*Хилер* - Австралийская пастушья собака.
+
+Окрас голубой, без брака.
+На продажу кобели.
+
+На фото им 7 дней.
+
+Звоните, резервируйте пока есть выбор! (на продажу 4 кобеля)
+
+![щенок Хилер](https://user-images.githubusercontent.com/2485728/107272530-e10b0d00-6a5e-11eb-8cc4-dff52e5186d6.png)
+![щенок австралийская пастушья собака](https://user-images.githubusercontent.com/2485728/107272629-04ce5300-6a5f-11eb-98bd-5d682b0ca034.png)
+![cattledog](https://user-images.githubusercontent.com/2485728/107272650-11eb4200-6a5f-11eb-90e3-28b50980716a.png)
+![cattle dog](https://user-images.githubusercontent.com/2485728/107272679-1f083100-6a5f-11eb-84b0-70f6e214b414.png)
+
+
 <!-- Анонс -->
 ## Анонс помётов
 
-<div class="flash" style="text-align: left;">
-   <p>Ожидаются щенки Австралийской Пастушьей Собаки (<b>Австралийский хилер</b>)  (начало февраля 2021).<br> Открыта запись, звоните.</p>
-
+<div class="flash" style="text-align: left;">   
    Планируются вязки:
    <ul>
       <li>Восточноевропейская овчарка 2021г</li>
