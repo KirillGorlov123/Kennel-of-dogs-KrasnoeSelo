@@ -17,10 +17,10 @@
 Продаются, **звоните**: ``+7 921 633 22 21`` Виктория
 
 <div style="display:flex; flex-direction: row; align-items: flex-start; flex-wrap: wrap;">
-   <div>
+   <div style="width: 45%;">
          <img alt="щенок ВЕО СПб купить" src="https://user-images.githubusercontent.com/2485728/107271554-76a59d00-6a5d-11eb-8c9c-b913323b2fe5.png" />
    </div>
-   <div>
+   <div style="width: 45%;">
          <img alt="щенок ВЕО СПб купить" src="https://user-images.githubusercontent.com/2485728/107271752-b53b5780-6a5d-11eb-9a84-48ff8a066b13.png" style="max-width: 80%;"/>
    </div>
 </div>
@@ -48,6 +48,23 @@
 ![cattle dog](https://user-images.githubusercontent.com/2485728/107272679-1f083100-6a5f-11eb-84b0-70f6e214b414.png)
 
 
+**Родители**
+
+Родители чемпионы (Saint-Petersburg, Russia):
+
+*Joker Show King of The Ring* (JCH: RUS, EST, BLR, LT, LV; CH: FIN, LV, RUS, TL, BLR. 19 CACIB, CHRKF, Austrin Winner'19(Res.BIS), BIS, **INTER CH**
+Baer +|+ снимки суставов-идеально, на расшифровке в РКФ
+ОКД 2, Т1
+x
+*Evra Leone Galaktika* JCH: RUS, CHRKF, CACIB, BOB, BIS
+PRA-NN, PLL-NN
+снимки на дисплазию - 0A
+ТПИ-1 (NHAT-VG)
+
+![image](https://user-images.githubusercontent.com/2485728/107273690-735fe080-6a60-11eb-9101-319084ed145b.png)
+
+
+
 <!-- Анонс -->
 ## Анонс помётов
 
@@ -57,7 +74,6 @@
       <li>Восточноевропейская овчарка 2021г</li>
       <li>Русская цветная болонка 2021г</li>
       <li>Якутская Лайка 2021г</li>
-      <li>Австралийский хиллер 2021г</li>
       <li>Сенбернар 2021г</li>
       <li>Среднеазиатская овчарка 2021г</li>
    </ul>
@@ -177,12 +193,12 @@ _Невская Лига_ и _Грейт Гардарика_ сотруднич�
 
 <div style="display:flex; flex-direction: row; align-items: flex-start; flex-wrap: wrap;">
 
-   <div style="width: 45%;">
+   <div style="width: 28%;">
    Благодарность от школы дрессировки АККОРД, 2019:
    <img src="https://user-images.githubusercontent.com/2485728/64926723-8047b880-d809-11e9-80ee-d72c7f26eef1.png" alt="Благодарность АККОРД">
    </div>
 
-   <div style="width: 45%; padding-left:20px;">
+   <div style="width: 28%; padding-left:20px;">
    Сертификат участника конференции по зоопсихологии, 2016:
    <img src="https://user-images.githubusercontent.com/2485728/64926759-006e1e00-d80a-11e9-9554-4b9ef3a36e63.png" alt="Сертификат участника конференции по зоопсихологии, 2016">
    </div>
