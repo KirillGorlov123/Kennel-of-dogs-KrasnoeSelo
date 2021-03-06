@@ -171,6 +171,19 @@ _Невская Лига_ и _Грейт Гардарика_ сотруднич�
 
 <div>
     <div class="sert-img">
+      <img src="https://user-images.githubusercontent.com/2485728/110219177-bc277f80-7ece-11eb-8ea8-a82b18969144.png" alt="Невская Лига Акира">
+    </div>      
+    <div class="sert-img">
+      <img src="https://user-images.githubusercontent.com/2485728/110219195-d19ca980-7ece-11eb-93c4-c983cbf47e5e.png" alt="Сенбернар Юнона">
+    </div>      
+    <div class="sert-img">
+      <img src="https://user-images.githubusercontent.com/2485728/110219209-e9742d80-7ece-11eb-9c3e-244a5c5267cd.png" alt="Сенбернар Юнона">
+    </div>      
+    <div class="sert-img">
+      <img src="https://user-images.githubusercontent.com/2485728/110219209-e9742d80-7ece-11eb-9c3e-244a5c5267cd.png" alt="Хилер Ева">
+    </div>      
+   
+    <div class="sert-img">
         <img src="assets/photos/s1.jpg" alt="Юный чемпион - Фруттис с Волчьей Земли">
     </div>
     <div class="sert-img">
