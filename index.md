@@ -3,11 +3,11 @@
 
 ## Щенки на продажу
 
-### Наши щенки восточноевропейской овчарки
+### Есть щенки восточноевропейской овчарки
 
-Продаются, **звоните**: ``+7 921 633 22 21`` Виктория
+Продаются, **звоните**: ``+7 911 244 97 59`` Мария Ильинична
 
-<div style="display:flex; flex-direction: row; align-items: flex-start; flex-wrap: wrap;">
+<!-- div style="display:flex; flex-direction: row; align-items: flex-start; flex-wrap: wrap;">
    <div style="width: 45%;">
       <h3>Грейт Гардарика **Измира**</h3>
       <ul>
@@ -21,13 +21,13 @@
    <div style="width: 45%;">
         <img src="https://user-images.githubusercontent.com/2485728/110218543-58e81e00-7ecb-11eb-9015-0ccdd61db582.png" alt="щенок ВЕО: Грейт Гардарика Измира">
    </div>
-</div>
+</div -->
 
-### Родители чемпионы
+<!-- ### Родители чемпионы
 ![ВЕО Акира](https://user-images.githubusercontent.com/2485728/106354236-45142f80-6301-11eb-9eed-154d0d100e06.png)
+ -->
 
-
-### Продаются щенки Австралийской Пастушьей Собаки
+<!-- ### Продаются щенки Австралийской Пастушьей Собаки
 
 Родились 02.02.2021
 
@@ -67,7 +67,7 @@ PRA-NN, PLL-NN
 ![image](https://user-images.githubusercontent.com/2485728/107273690-735fe080-6a60-11eb-9101-319084ed145b.png)
 
 
-
+ -->
 <!-- Анонс -->
 ## Анонс помётов
 
