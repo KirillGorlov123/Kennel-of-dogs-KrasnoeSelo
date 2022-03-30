@@ -3,19 +3,38 @@
 
 ## Щенки на продажу
 
-### Есть щенки
+Ожидаются пометы Восточноевропейская овчарка и австралийский хилер (середина апреля 2022).
 
-03.10.2022  Продаётся щенок восточноевропейской овчарки, 4 мес. Девочка.
+### Есть щенки (Русские цветные болонки, Якутская Лайка)
 
-Родители: Вео Страж Легион × Центавра.
+31.03.2022  Продаются щенки русской цветной болонки (мальчики и девочки)
 
-Документы РКФ.
-
-Малышка полностью привита, начала курс воспитательной дрессировки. Возможна доставка в другой город за счёт покупателя.
+Документы РКФ, привиты по возрасту, договор.
 
 **звоните**: ``+7 911 244 97 59`` Мария Ильинична
 
-![image](https://user-images.githubusercontent.com/2485728/135768623-5303ba29-dea7-4df4-9132-8d8ed7d05b2d.png)
+![image](https://sun9-86.userapi.com/impf/nSEuaFJECyzYvNZJbNqQe5hJe6x-o1eAgHnVQg/3dnsRT_QTMg.jpg?size=1600x1062&quality=95&sign=b674e24953368d0a4ff7346ddf3460c1&type=album)
+
+![](https://sun9-5.userapi.com/impf/zEUbL0ESVeJRIo57OLrz_7nPhbqnGOi9A-Oq4g/YKVVOjdZgf4.jpg?size=2560x1700&quality=96&sign=51d1c977101ea86713621220444f3a7e&type=album)
+
+![](https://sun9-80.userapi.com/impf/H8r-xo-R3X0rtfvBOwbEOKKCyO0HKd1K6oQd6A/ifd1tlu82OI.jpg?size=2560x1700&quality=96&sign=a2b5fd16ea8ee8d05961aed2b841c959&type=album)
+
+![](https://sun9-51.userapi.com/impf/4oz_rok4wdjmBNg2QPlaaMx6r5a_2Qh9L0b6-g/SXGfiFKZhUE.jpg?size=1600x1198&quality=96&sign=102d0246ae5e8fa18472dea5c4fc82ab&type=album)
+
+### Щенок якутской лайки, мальчик
+
+Документы РКФ, полностью привит
+
+![](https://sun9-84.userapi.com/impf/ImDs6KUtIrGrPS_1U3AGHFWQc-Y8ohrw4p1OVw/n5sovQByNow.jpg?size=601x845&quality=96&sign=1a6425545ac59e744adbbfec867a07c9&type=album)
+
+![](https://sun9-30.userapi.com/impf/JfgHee0euAhNzkpF5ifTOnzDAwvcxz4sEjyiaQ/IbsG23SWeVc.jpg?size=668x456&quality=96&sign=c160981eb7675fa98e2888a87b291b62&type=album)
+
+### Родители ВЕО и хилеров
+
+![](https://sun9-14.userapi.com/impf/6g1VWRps5sf5YDNnQz7G76C_kPmY1PBqbuhWJw/AZINTOMT54g.jpg?size=1938x1826&quality=95&sign=4797a8629700360f13ce06f749d66067&type=album)
+
+![](https://sun9-40.userapi.com/impf/I5Heu8jPg4uuwqkcukZpkMSwn1sxPsIyI-pgTA/ZFRxFNe4Lfo.jpg?size=1440x2160&quality=95&sign=f5cada7c7e7538ec392c7b86efc4b184&type=album)
+
 
 <!-- div style="display:flex; flex-direction: row; align-items: flex-start; flex-wrap: wrap;">
    <div style="width: 45%;">
@@ -82,13 +101,10 @@ PRA-NN, PLL-NN
 ## Анонс помётов
 
 <div class="flash" style="text-align: left;">   
-   Планируются вязки:
+   Ожидаются щенки:
    <ul>
-      <li>Восточноевропейская овчарка 2021г</li>
-      <li>Русская цветная болонка 2021г</li>
-      <li>Якутская Лайка 2021г</li>
-      <li>Сенбернар 2021г</li>
-      <li>Среднеазиатская овчарка 2021г</li>
+      <li>Восточноевропейская овчарка, апрель 2022г</li>      
+      <li>Австралийские хилеры, апрель 2022</li>
    </ul>
 </div>
 
