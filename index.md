@@ -29,7 +29,7 @@
 
 ![](https://sun9-30.userapi.com/impf/JfgHee0euAhNzkpF5ifTOnzDAwvcxz4sEjyiaQ/IbsG23SWeVc.jpg?size=668x456&quality=96&sign=c160981eb7675fa98e2888a87b291b62&type=album)
 
-### Родители ВЕО и хилеров
+### Ожидаются пометы Восточноевропейская овчарка и австралийский хилер
 
 ![](https://sun9-14.userapi.com/impf/6g1VWRps5sf5YDNnQz7G76C_kPmY1PBqbuhWJw/AZINTOMT54g.jpg?size=1938x1826&quality=95&sign=4797a8629700360f13ce06f749d66067&type=album)
 
