@@ -5,25 +5,34 @@
 
 ### Есть щенок (Русские цветные болонки)
 
-- 07.02.2023  Свободна для продажи девочка русской цветной болонки коричневого окраса.
-- Д.р. 23.08.22
-- Документы РКФ, полностью привита.
+- 04.05.2023  Свободен для продажи мальчик русской цветной болонки коричневого окраса.
+- Д.р. 27.03.23
+- Документы РКФ, привита по возрасту.
 
 **звоните**: ``+7 911 244 97 59`` Мария Ильинична
 
-![image](https://user-images.githubusercontent.com/2485728/217320876-ea531c52-9726-4b61-bfc2-ef11cca5c5a5.png)
-![image](https://user-images.githubusercontent.com/2485728/217321028-b7791b4a-3654-4b2f-98f7-63327871c4d5.png)
+![image](https://user-images.githubusercontent.com/2485728/236294423-3d916669-710e-49f5-81c6-9cead38b7eef.png)
+
+### Два щенка Вельш корги пемброк (мальчик и девочка):
+
+- Д.р. 27.03.23
+
+![image](https://user-images.githubusercontent.com/2485728/236294665-d8d052f0-1926-4e66-bc46-06ddb9046129.png)
+![image](https://user-images.githubusercontent.com/2485728/236294899-a3d0efff-fafb-464c-9117-5e3b934de460.png)
 
 
-<!--
+### Ожидаются помет австралийского хилера
 
-### Ожидаются пометы Восточноевропейская овчарка и австралийский хилер
+Joker Show King of The Ring x Evra Leone Galaktica
 
-![](https://sun9-14.userapi.com/impf/6g1VWRps5sf5YDNnQz7G76C_kPmY1PBqbuhWJw/AZINTOMT54g.jpg?size=1938x1826&quality=95&sign=4797a8629700360f13ce06f749d66067&type=album)
+![image](https://user-images.githubusercontent.com/2485728/236295161-f1fd62a9-d6d8-4eeb-9da1-5920e66289f4.png)
 
-![](https://sun9-40.userapi.com/impf/I5Heu8jPg4uuwqkcukZpkMSwn1sxPsIyI-pgTA/ZFRxFNe4Lfo.jpg?size=1440x2160&quality=95&sign=f5cada7c7e7538ec392c7b86efc4b184&type=album)
+### Ожидаются рождение помета русской цветной болонки
 
--->
+Кристалианси Дэнди для Невской Лиги x Грейт Гардарика Матильда
+
+![image](https://user-images.githubusercontent.com/2485728/236295623-e4d03094-09e0-41d4-9775-6b54ffdfd41b.png)
+
 
 <!-- div style="display:flex; flex-direction: row; align-items: flex-start; flex-wrap: wrap;">
    <div style="width: 45%;">
