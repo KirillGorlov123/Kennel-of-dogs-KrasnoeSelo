@@ -5,20 +5,29 @@
 
 ### Есть щенок (Русские цветные болонки)
 
-- 04.05.2023  Свободен для продажи мальчик русской цветной болонки коричневого окраса.
-- Д.р. 27.03.23
-- Документы РКФ, привит по возрасту.
+- 09.11.2023 Свободна для продажи девочка русской цветной болонки.
+- Д.р. 09.07.23
+- Полностью привита, документы РКФ. Без брака.
+- Ожидаемый вес - до 3-х кг
 
-**звоните**: ``+7 911 244 97 59`` Мария Ильинична
+**звоните**: ``+7 921 633 22 21`` Виктория Михайловна
 
-![image](https://user-images.githubusercontent.com/2485728/236294423-3d916669-710e-49f5-81c6-9cead38b7eef.png)
+![image](https://github.com/agorlov/pitomnik/assets/2485728/0fa68d82-96e6-4252-b07f-427550b93bc2)
 
-### Два щенка Вельш корги пемброк (мальчик и девочка):
+### Щенок Австралийского хилера
 
-- Д.р. 27.03.23
+- 09.11.2023 Свободна для продажи девочка австралийского хилера.
+- Д.р. 26.05.23
+- Родители: Joker Show King of the Ring & Evra Leone Galaktika
+- Документы РКФ, без брака.
+- Подходит для выставок и разведения.
 
-![image](https://user-images.githubusercontent.com/2485728/236294665-d8d052f0-1926-4e66-bc46-06ddb9046129.png)
-![image](https://user-images.githubusercontent.com/2485728/236294899-a3d0efff-fafb-464c-9117-5e3b934de460.png)
+![image](https://github.com/agorlov/pitomnik/assets/2485728/e860dc34-39ac-425d-9220-c837447db7e3)
+![image](https://github.com/agorlov/pitomnik/assets/2485728/68c66b88-c040-45e4-b35f-94fc9bbef69f)
+![image](https://github.com/agorlov/pitomnik/assets/2485728/c15cd6a0-5506-4282-bb94-3f0da3926cfd)
+![image](https://github.com/agorlov/pitomnik/assets/2485728/37a1d9f4-68ea-4599-b031-39d10073ea17)
+![image](https://github.com/agorlov/pitomnik/assets/2485728/f752c244-6db3-40ce-8609-90b8c7baa267)
+
 
 
 ### Ожидаются помет австралийского хилера
