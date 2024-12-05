@@ -3,10 +3,33 @@
 
 @import "{{ site.theme }}";
 
- /* Kirill styles */
-.wrapper {
-      max-width: none;
+.head-table td {
+    vertical-align: top;
 }
 
+.flash {
+    margin-bottom: 55px;
+    padding-left: 10px;
+    text-align: center;
+    font-size: 1.1em;
+}
 
+.pitomnik-title {
+    line-height: 37px;
+}
 
+.pre-pitomnik-title {
+    margin-bottom: 6px;
+}
+
+.sert-img {
+    width: 193px;
+    height: 242px;
+    text-align: center;
+    display: inline-block;
+    padding-top: 0px;
+    border: 5px solid #434343;
+    overflow: hidden;
+    margin-top: 11px;
+    margin-left: 10px;
+}
